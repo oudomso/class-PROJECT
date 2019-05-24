@@ -4,3 +4,4 @@ As a user, I want to be able to input search queries so that I can search Stack 
 ## Acceptance Criteria
 - [ ] index.html has a text input
 - [ ] index.html has a search button
+- [ ] need css and js file
